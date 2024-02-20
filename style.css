@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: "Poppins", sans-serif;
+    --color1: rgb(251, 224, 7);
+    --color2: rgb(0, 118, 94);
+}
+
+.mainImage {
+    width: 100%;
+}
