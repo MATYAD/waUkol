@@ -98,3 +98,13 @@ body{
 #check {
     display: none;
 }
+
+.list {
+    display: flex;
+    
+}
+
+.listUl {
+    width: 100%;
+    justify-content: space-between;
+}
